@@ -1,5 +1,5 @@
 _repo: The-Conceited-Pig_59983
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Weir, Harrison
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8210'
     url: http://www.gutenberg.org/2009/agents/8210
     wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: archival
+  image_path: 59983-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -19,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59983#The-Conceited-Pig
 gutenberg_issued: '2019-07-25'
 gutenberg_type: Text
 identifiers:
